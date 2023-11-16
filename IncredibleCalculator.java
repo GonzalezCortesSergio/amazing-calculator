@@ -39,9 +39,21 @@ public class IncredibleCalculator {
                     //Multiplicación
                     //Mostrar multiplicación
                     break;
-            case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
+            case 4: // Dividir. Debes leer dos números enteros de entrada e imprimir su división entera.
+
+                    System.out.println("Introduzca dos números enteros");
+
+                    //El usuario escribe los dos números
+                    //División
+                    //Mostrar división
                     break;
-            case 5: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división con decimales.
+            case 5: // Dividir. Debes leer dos números enteros de entrada e imprimir su división con decimales.
+
+                    System.out.println("Introduzca dos números enteros");
+
+                    //El usuario escribe los dos números
+                    //División, casteando un double
+                    //Mostrar división
                     break;
 
         }
