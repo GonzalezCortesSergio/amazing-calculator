@@ -32,6 +32,12 @@ public class IncredibleCalculator {
                 //Mostrar resta
                     break;
             case 3: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su producto.
+
+                    System.out.println("Introduzca dos números enteros");
+
+                    //El usuario escribe los dos números
+                    //Multiplicación
+                    //Mostrar multiplicación
                     break;
             case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
                     break;
